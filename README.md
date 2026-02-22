@@ -1,6 +1,6 @@
 # Computación Gráfica
 
-**Número de Práctica:** 01
+**Número de Práctica:** 01  
 **NOMBRE COMPLETO:** Nava Aguilar Arturo David  
 **Nº DE CUENTA:** 320050716  
 **GRUPO DE LABORATORIO:** 02  
