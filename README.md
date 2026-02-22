@@ -1,4 +1,4 @@
-# Computación Gráfica
+# Laboratorio de Computación Gráfica e Interacción Humano Computadora
 
 **Número de Práctica:** 01  
 **NOMBRE COMPLETO:** Nava Aguilar Arturo David  
