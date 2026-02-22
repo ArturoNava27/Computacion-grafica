@@ -1,4 +1,4 @@
-# Computación Gráfica
+# Laboratorio de Computación Gráfica e Interacción Humano Computadora
 
 **NOMBRE COMPLETO:** Nava Aguilar Arturo David  
 **Nº DE CUENTA:** 320050716  
@@ -8,5 +8,5 @@
 
 ---
 ### Contenido del Repositorio
-En este repositorio se encuentran las entregas de laboratorio de la materia. 
+En este repositorio se encuentran las entregas, avances y control de versiones del laboratorio de la materia. 
 La **Práctica 1** se encuentra en la rama: `P01-320050716`
