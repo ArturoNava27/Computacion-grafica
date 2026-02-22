@@ -5,3 +5,4 @@
 **Grupo de Laboratorio:** 02  
 **Grupo de Teoría:** 07  
 **Semestre:** 2026-2
+
