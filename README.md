@@ -9,4 +9,3 @@
 ---
 ### Contenido del Repositorio
 En este repositorio se encuentran las entregas, avances y control de versiones del laboratorio de la materia. 
-La **Práctica 1** se encuentra en la rama: `P01-320050716`
